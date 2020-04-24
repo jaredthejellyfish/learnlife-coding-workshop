@@ -4,7 +4,6 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Usage](#usage)
 - [Contributing](#contributors)
 
 ## About <a name = "about"></a>
@@ -15,7 +14,7 @@ Welcome to the official Github repository for our lovely coding workshop. Here y
 
 These instructions will get you a copy of the projects up and running on your local machine so that you can continue practicing on your own during your spare time.
 
-### Prerequisites
+## Prerequisites
 
 To get all of these projects running you will need to install processing on your computer. To get processing, follow [this link.](https://processing.org/download/) 
 If you need a refresher on how to download processing click on the image below.
