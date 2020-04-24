@@ -22,6 +22,7 @@ If you need a refresher on how to download processing click on the image below.
 
 
 Within processing you will need to install the Python mode, created by Jonathan Feinberg. Click on the following image to learn how to do it:
+
 [![IMAGE ALT TEXT HERE](http://i3.ytimg.com/vi/bngDW7BA73E/hqdefault.jpg)](https://www.youtube.com/watch?v=bngDW7BA73E)
 
 
