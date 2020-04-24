@@ -9,7 +9,7 @@
 
 ## About <a name = "about"></a>
 
-Welcome to the official Github repository for our lovely coding workshop. Here you will find examples of every single topic we have covered so far. All the projects here will pair very well with the [google sheets](https://docs.google.com/spreadsheets/d/1a_OME282ngKiFFuauJqImK2Bfyk7kejBDFZeJtpxEus/edit?usp=sharing) we have with review options for the course.
+Welcome to the official Github repository for our lovely coding workshop. Here you will find examples of every single topic we have covered so far. All the projects here will pair very well with the [google sheets](https://docs.google.com/spreadsheets/d/1a_OME282ngKiFFuauJqImK2Bfyk7kejBDFZeJtpxEus/edit?usp=sharing#gid=43686953) we have with review options for the course.
 
 ## Getting Started <a name = "getting_started"></a>
 
