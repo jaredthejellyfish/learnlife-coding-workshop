@@ -5,7 +5,7 @@
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Usage](#usage)
-- [Contributing](../CONTRIBUTING.md)
+- [Contributing](#contributors)
 
 ## About <a name = "about"></a>
 
@@ -13,34 +13,16 @@ Welcome to the official Github repository for our lovely coding workshop. Here y
 
 ## Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the projects up and running on your local machine so that you can continue practicing on your own during your spare time.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them.
+To get all of these projects running you will need to install processing on your computer. To get processing, follow [this link.](https://processing.org/download/)
 
-```
-Give examples
-```
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Q04sKyZsUKo/0.jpg)](https://www.youtube.com/watch?v=Q04sKyZsUKo)
 
-### Installing
+Within processing you will need to install the Python mode, created by Jonathan Feinberg.
 
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## Usage <a name = "usage"></a>
+## Contributors <a name = "contributors"></a>
 
 Add notes about how to use the system.
