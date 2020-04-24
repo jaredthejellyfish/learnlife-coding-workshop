@@ -4,6 +4,7 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
+- [How to Download](#download)
 - [Contributing](#contributors)
 
 ## About <a name = "about"></a>
@@ -27,6 +28,10 @@ Within processing you will need to install the Python mode, created by Jonathan 
 
 [![IMAGE ALT TEXT HERE](http://i3.ytimg.com/vi/bngDW7BA73E/hqdefault.jpg)](https://www.youtube.com/watch?v=bngDW7BA73E)
 
+## How to Download <a name = "download"></a>
+
+To learn how to clone or download this repository click on the image below:
+[![IMAGE ALT TEXT HERE](http://i3.ytimg.com/vi/X5e3xQBeqf8/hqdefault.jpg)](https://youtu.be/X5e3xQBeqf8?t=69)
 
 ## Contributors <a name = "contributors"></a>
 
