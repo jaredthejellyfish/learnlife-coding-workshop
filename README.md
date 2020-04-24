@@ -18,12 +18,12 @@ These instructions will get you a copy of the projects up and running on your lo
 
 To get all of these projects running you will need to install processing on your computer. To get processing, follow [this link.](https://processing.org/download/) 
 If you need a refresher on how to download processing click on the image below.
-
 [![IMAGE ALT TEXT HERE](http://i3.ytimg.com/vi/Q04sKyZsUKo/hqdefault.jpg)](https://www.youtube.com/watch?v=Q04sKyZsUKo)
 
-Within processing you will need to install the Python mode, created by Jonathan Feinberg. Click on the following image to learn how to do it:
 
+Within processing you will need to install the Python mode, created by Jonathan Feinberg. Click on the following image to learn how to do it:
 [![IMAGE ALT TEXT HERE](http://i3.ytimg.com/vi/bngDW7BA73E/hqdefault.jpg)](https://www.youtube.com/watch?v=bngDW7BA73E)
+
 
 ## Contributors <a name = "contributors"></a>
 
