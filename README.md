@@ -9,7 +9,7 @@
 
 ## About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+Welcome to the official Github repository for our lovely coding workshop. Here you will find examples of every single topic we have covered so far. All the projects here will pair very well with the [google sheets](https://docs.google.com/spreadsheets/d/1a_OME282ngKiFFuauJqImK2Bfyk7kejBDFZeJtpxEus/edit?usp=sharing) we have with review options for the course.
 
 ## Getting Started <a name = "getting_started"></a>
 
