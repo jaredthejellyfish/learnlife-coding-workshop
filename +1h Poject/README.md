@@ -11,7 +11,7 @@ Thigs that must be covered:
 * Key Presses
 
 Feel free to use any review material provided or the internet. 
-### Nothing is forbidded.
+### _*Nothing is forbidded.*_
 
 Review material liks:
 * [Jupyter](https://docs.google.com/spreadsheets/d/1a_OME282ngKiFFuauJqImK2Bfyk7kejBDFZeJtpxEus/edit#gid=43686953)
