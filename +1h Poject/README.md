@@ -9,3 +9,6 @@ Thigs that must be covered:
 * Loops
 * Dictionaries
 * Key Presses
+
+Feel free to use any review material provided or the internet. 
+### Nothing is forbidded.
