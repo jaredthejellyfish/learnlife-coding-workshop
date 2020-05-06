@@ -13,6 +13,6 @@ Thigs that must be covered:
 Feel free to use any review material provided or the internet. 
 ### _*Nothing is forbidded.*_
 
-Review material liks:
+Review material links:
 * [Jupyter](https://docs.google.com/spreadsheets/d/1a_OME282ngKiFFuauJqImK2Bfyk7kejBDFZeJtpxEus/edit#gid=43686953)
 * [Google Sheets](https://colab.research.google.com/drive/18JnFd5j5EozVEAcnsPYJXPQDneF_KZjU)
