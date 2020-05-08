@@ -46,3 +46,5 @@ print(number_list)
 # In this example you will be a doctor! 
 # You have a set of patients
 # One of your patients is really ill
+# You need to move them up the priority queue
+# Use conditionals or list methods, your pick.
