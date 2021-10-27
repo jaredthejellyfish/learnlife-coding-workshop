@@ -11,10 +11,6 @@
 
 Welcome to the official Github repository for our lovely coding workshop. Here you will find examples of every single topic we have covered so far. All the projects here will pair very well with the [google sheets](https://docs.google.com/spreadsheets/d/1a_OME282ngKiFFuauJqImK2Bfyk7kejBDFZeJtpxEus/edit?usp=sharing#gid=43686953) we have with review options for the course.
 
-```print(hello world)
-   if x then y: 
-```
-
 ## Getting Started <a name = "getting_started"></a>
 
 These instructions will get you a copy of the projects up and running on your local machine so that you can continue practicing on your own during your spare time.
